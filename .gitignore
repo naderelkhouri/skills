@@ -1,0 +1,20 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment variables & secrets
+.env
+.env.*
+*.secret
+*.pem
+*.key
+
+# Logs and runtime artifacts
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+tmp/
+scratch/
