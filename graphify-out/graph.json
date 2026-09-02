@@ -1,0 +1,621 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 1,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Antigravity & Agent Skills Catalog",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_antigravity_agent_skills_catalog",
+      "community": 1,
+      "norm_label": "antigravity & agent skills catalog"
+    },
+    {
+      "label": "\ud83d\udcda Cat\u00e1logo de Skills",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "readme_cat\u00e1logo_de_skills",
+      "community": 1,
+      "norm_label": "\ud83d\udcda catalogo de skills"
+    },
+    {
+      "label": "\ud83d\ude80 Como Utilizar",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "readme_como_utilizar",
+      "community": 1,
+      "norm_label": "\ud83d\ude80 como utilizar"
+    },
+    {
+      "label": "1. Instala\u00e7\u00e3o Global no Antigravity (`~/.gemini/config/skills`)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "readme_1_instala\u00e7\u00e3o_global_no_antigravity_gemini_config_skills",
+      "community": 1,
+      "norm_label": "1. instalacao global no antigravity (`~/.gemini/config/skills`)"
+    },
+    {
+      "label": "2. Uso Espec\u00edfico por Projeto (`.agents/skills/`)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L34",
+      "_origin": "ast",
+      "id": "readme_2_uso_espec\u00edfico_por_projeto_agents_skills",
+      "community": 1,
+      "norm_label": "2. uso especifico por projeto (`.agents/skills/`)"
+    },
+    {
+      "label": "\ud83c\udfdb\ufe0f Estrutura de uma Skill",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "readme_estrutura_de_uma_skill",
+      "community": 1,
+      "norm_label": "\ud83c\udfdb\ufe0f estrutura de uma skill"
+    },
+    {
+      "label": "\ud83d\udc64 Autor",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L60",
+      "_origin": "ast",
+      "id": "readme_autor",
+      "community": 1,
+      "norm_label": "\ud83d\udc64 autor"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill",
+      "community": 2,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Skill: Cloudflare Pages & Functions (Deploy, Troubleshooting & Cache Control)",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_skill_cloudflare_pages_functions_deploy_troubleshooting_cache_control",
+      "community": 2,
+      "norm_label": "skill: cloudflare pages & functions (deploy, troubleshooting & cache control)"
+    },
+    {
+      "label": "1. \ud83d\udea8 Armadilhas de Deploy & Resolu\u00e7\u00e3o de Problemas (Troubleshooting)",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_1_armadilhas_de_deploy_resolu\u00e7\u00e3o_de_problemas_troubleshooting",
+      "community": 2,
+      "norm_label": "1. \ud83d\udea8 armadilhas de deploy & resolucao de problemas (troubleshooting)"
+    },
+    {
+      "label": "A. Preven\u00e7\u00e3o de Tela Branca por Fallback SPA Incorreto (`200.html`)",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_a_preven\u00e7\u00e3o_de_tela_branca_por_fallback_spa_incorreto_200_html",
+      "community": 2,
+      "norm_label": "a. prevencao de tela branca por fallback spa incorreto (`200.html`)"
+    },
+    {
+      "label": "B. Gest\u00e3o de Caching de Borda no Edge CDN (`public/_headers`)",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_b_gest\u00e3o_de_caching_de_borda_no_edge_cdn_public_headers",
+      "community": 2,
+      "norm_label": "b. gestao de caching de borda no edge cdn (`public/_headers`)"
+    },
+    {
+      "label": "2. \u26a1 Paridade de Backend: Express vs Cloudflare Functions",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L47",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_2_paridade_de_backend_express_vs_cloudflare_functions",
+      "community": 2,
+      "norm_label": "2. \u26a1 paridade de backend: express vs cloudflare functions"
+    },
+    {
+      "label": "3. \ud83d\udee0\ufe0f Fluxo Padr\u00e3o de Deploy & Valida\u00e7\u00e3o",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L59",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_3_fluxo_padr\u00e3o_de_deploy_valida\u00e7\u00e3o",
+      "community": 3,
+      "norm_label": "3. \ud83d\udee0\ufe0f fluxo padrao de deploy & validacao"
+    },
+    {
+      "label": "Passo 1: Limpeza e Compila\u00e7\u00e3o Limpa",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L61",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_passo_1_limpeza_e_compila\u00e7\u00e3o_limpa",
+      "community": 3,
+      "norm_label": "passo 1: limpeza e compilacao limpa"
+    },
+    {
+      "label": "Passo 2: Implanta\u00e7\u00e3o no Cloudflare Pages com Wrangler",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L66",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_passo_2_implanta\u00e7\u00e3o_no_cloudflare_pages_com_wrangler",
+      "community": 3,
+      "norm_label": "passo 2: implantacao no cloudflare pages com wrangler"
+    },
+    {
+      "label": "Passo 3: Auditoria Emp\u00edrica dos Endpoints em Produ\u00e7\u00e3o",
+      "file_type": "document",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L71",
+      "_origin": "ast",
+      "id": "cloudflare_pages_skill_passo_3_auditoria_emp\u00edrica_dos_endpoints_em_produ\u00e7\u00e3o",
+      "community": 3,
+      "norm_label": "passo 3: auditoria empirica dos endpoints em producao"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill",
+      "community": 0,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Skill: SEO & AEO Technical Auditor (Search + Answer Engine Optimization)",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_skill_seo_aeo_technical_auditor_search_answer_engine_optimization",
+      "community": 0,
+      "norm_label": "skill: seo & aeo technical auditor (search + answer engine optimization)"
+    },
+    {
+      "label": "1. \ud83e\udde0 Filosofia Central & Equa\u00e7\u00e3o de Valor",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_1_filosofia_central_equa\u00e7\u00e3o_de_valor",
+      "community": 0,
+      "norm_label": "1. \ud83e\udde0 filosofia central & equacao de valor"
+    },
+    {
+      "label": "A Equa\u00e7\u00e3o de Ranqueamento & Cita\u00e7\u00e3o:",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_a_equa\u00e7\u00e3o_de_ranqueamento_cita\u00e7\u00e3o",
+      "community": 0,
+      "norm_label": "a equacao de ranqueamento & citacao:"
+    },
+    {
+      "label": "2. \ud83c\udfdb\ufe0f As 5 Camadas Arquiteturais & 20 Configura\u00e7\u00f5es Essenciais",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_2_as_5_camadas_arquiteturais_20_configura\u00e7\u00f5es_essenciais",
+      "community": 0,
+      "norm_label": "2. \ud83c\udfdb\ufe0f as 5 camadas arquiteturais & 20 configuracoes essenciais"
+    },
+    {
+      "label": "Tabela Mestra das 20 Configura\u00e7\u00f5es",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L45",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_tabela_mestra_das_20_configura\u00e7\u00f5es",
+      "community": 0,
+      "norm_label": "tabela mestra das 20 configuracoes"
+    },
+    {
+      "label": "3. \ud83d\udcca Matriz de Pontua\u00e7\u00e3o: \"SEO & AEO Technical Score\" (0\u2013100)",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L72",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_3_matriz_de_pontua\u00e7\u00e3o_seo_aeo_technical_score_0_100",
+      "community": 0,
+      "norm_label": "3. \ud83d\udcca matriz de pontuacao: \"seo & aeo technical score\" (0\u2013100)"
+    },
+    {
+      "label": "Faixas de Classifica\u00e7\u00e3o:",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L78",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_faixas_de_classifica\u00e7\u00e3o",
+      "community": 0,
+      "norm_label": "faixas de classificacao:"
+    },
+    {
+      "label": "4. \ud83d\udd2c Protocolo de Auditoria e Comandos de Diagn\u00f3stico",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L86",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_4_protocolo_de_auditoria_e_comandos_de_diagn\u00f3stico",
+      "community": 4,
+      "norm_label": "4. \ud83d\udd2c protocolo de auditoria e comandos de diagnostico"
+    },
+    {
+      "label": "A. Valida\u00e7\u00e3o de Crawlability & Headers (via CLI)",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L88",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_a_valida\u00e7\u00e3o_de_crawlability_headers_via_cli",
+      "community": 4,
+      "norm_label": "a. validacao de crawlability & headers (via cli)"
+    },
+    {
+      "label": "B. Valida\u00e7\u00e3o On-Page & Schema.org",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L100",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_b_valida\u00e7\u00e3o_on_page_schema_org",
+      "community": 4,
+      "norm_label": "b. validacao on-page & schema.org"
+    },
+    {
+      "label": "C. Checklist de Verifica\u00e7\u00e3o para AEO (Answer Engine Optimization)",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L106",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_c_checklist_de_verifica\u00e7\u00e3o_para_aeo_answer_engine_optimization",
+      "community": 4,
+      "norm_label": "c. checklist de verificacao para aeo (answer engine optimization)"
+    },
+    {
+      "label": "5. \ud83d\udccb Template do Relat\u00f3rio Can\u00f4nico de Auditoria",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L114",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_5_template_do_relat\u00f3rio_can\u00f4nico_de_auditoria",
+      "community": 0,
+      "norm_label": "5. \ud83d\udccb template do relatorio canonico de auditoria"
+    },
+    {
+      "label": "6. \ud83d\ude80 Integra\u00e7\u00e3o e Produto AdmX.Tech",
+      "file_type": "document",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L152",
+      "_origin": "ast",
+      "id": "seo_aeo_audit_skill_6_integra\u00e7\u00e3o_e_produto_admx_tech",
+      "community": 0,
+      "norm_label": "6. \ud83d\ude80 integracao e produto admx.tech"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme",
+      "target": "readme_antigravity_agent_skills_catalog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "readme_antigravity_agent_skills_catalog",
+      "target": "readme_autor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "readme_antigravity_agent_skills_catalog",
+      "target": "readme_cat\u00e1logo_de_skills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "readme_antigravity_agent_skills_catalog",
+      "target": "readme_como_utilizar",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "readme_antigravity_agent_skills_catalog",
+      "target": "readme_estrutura_de_uma_skill",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "readme_como_utilizar",
+      "target": "readme_1_instala\u00e7\u00e3o_global_no_antigravity_gemini_config_skills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "readme_como_utilizar",
+      "target": "readme_2_uso_espec\u00edfico_por_projeto_agents_skills",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill",
+      "target": "cloudflare_pages_skill_skill_cloudflare_pages_functions_deploy_troubleshooting_cache_control",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill_skill_cloudflare_pages_functions_deploy_troubleshooting_cache_control",
+      "target": "cloudflare_pages_skill_1_armadilhas_de_deploy_resolu\u00e7\u00e3o_de_problemas_troubleshooting",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill_skill_cloudflare_pages_functions_deploy_troubleshooting_cache_control",
+      "target": "cloudflare_pages_skill_2_paridade_de_backend_express_vs_cloudflare_functions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill_skill_cloudflare_pages_functions_deploy_troubleshooting_cache_control",
+      "target": "cloudflare_pages_skill_3_fluxo_padr\u00e3o_de_deploy_valida\u00e7\u00e3o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill_1_armadilhas_de_deploy_resolu\u00e7\u00e3o_de_problemas_troubleshooting",
+      "target": "cloudflare_pages_skill_a_preven\u00e7\u00e3o_de_tela_branca_por_fallback_spa_incorreto_200_html",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill_1_armadilhas_de_deploy_resolu\u00e7\u00e3o_de_problemas_troubleshooting",
+      "target": "cloudflare_pages_skill_b_gest\u00e3o_de_caching_de_borda_no_edge_cdn_public_headers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill_3_fluxo_padr\u00e3o_de_deploy_valida\u00e7\u00e3o",
+      "target": "cloudflare_pages_skill_passo_1_limpeza_e_compila\u00e7\u00e3o_limpa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L66",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill_3_fluxo_padr\u00e3o_de_deploy_valida\u00e7\u00e3o",
+      "target": "cloudflare_pages_skill_passo_2_implanta\u00e7\u00e3o_no_cloudflare_pages_com_wrangler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cloudflare-pages/SKILL.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "cloudflare_pages_skill_3_fluxo_padr\u00e3o_de_deploy_valida\u00e7\u00e3o",
+      "target": "cloudflare_pages_skill_passo_3_auditoria_emp\u00edrica_dos_endpoints_em_produ\u00e7\u00e3o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill",
+      "target": "seo_aeo_audit_skill_skill_seo_aeo_technical_auditor_search_answer_engine_optimization",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_skill_seo_aeo_technical_auditor_search_answer_engine_optimization",
+      "target": "seo_aeo_audit_skill_1_filosofia_central_equa\u00e7\u00e3o_de_valor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_skill_seo_aeo_technical_auditor_search_answer_engine_optimization",
+      "target": "seo_aeo_audit_skill_2_as_5_camadas_arquiteturais_20_configura\u00e7\u00f5es_essenciais",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_skill_seo_aeo_technical_auditor_search_answer_engine_optimization",
+      "target": "seo_aeo_audit_skill_3_matriz_de_pontua\u00e7\u00e3o_seo_aeo_technical_score_0_100",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_skill_seo_aeo_technical_auditor_search_answer_engine_optimization",
+      "target": "seo_aeo_audit_skill_4_protocolo_de_auditoria_e_comandos_de_diagn\u00f3stico",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_skill_seo_aeo_technical_auditor_search_answer_engine_optimization",
+      "target": "seo_aeo_audit_skill_5_template_do_relat\u00f3rio_can\u00f4nico_de_auditoria",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_skill_seo_aeo_technical_auditor_search_answer_engine_optimization",
+      "target": "seo_aeo_audit_skill_6_integra\u00e7\u00e3o_e_produto_admx_tech",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_1_filosofia_central_equa\u00e7\u00e3o_de_valor",
+      "target": "seo_aeo_audit_skill_a_equa\u00e7\u00e3o_de_ranqueamento_cita\u00e7\u00e3o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_2_as_5_camadas_arquiteturais_20_configura\u00e7\u00f5es_essenciais",
+      "target": "seo_aeo_audit_skill_tabela_mestra_das_20_configura\u00e7\u00f5es",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_3_matriz_de_pontua\u00e7\u00e3o_seo_aeo_technical_score_0_100",
+      "target": "seo_aeo_audit_skill_faixas_de_classifica\u00e7\u00e3o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_4_protocolo_de_auditoria_e_comandos_de_diagn\u00f3stico",
+      "target": "seo_aeo_audit_skill_a_valida\u00e7\u00e3o_de_crawlability_headers_via_cli",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_4_protocolo_de_auditoria_e_comandos_de_diagn\u00f3stico",
+      "target": "seo_aeo_audit_skill_b_valida\u00e7\u00e3o_on_page_schema_org",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "seo-aeo-audit/SKILL.md",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "seo_aeo_audit_skill_4_protocolo_de_auditoria_e_comandos_de_diagn\u00f3stico",
+      "target": "seo_aeo_audit_skill_c_checklist_de_verifica\u00e7\u00e3o_para_aeo_answer_engine_optimization",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "4654ff2b48b21eb159d1a628fd0c38c3a74daf85"
+}
