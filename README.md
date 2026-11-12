@@ -60,3 +60,19 @@ skills/
 ## 👤 Autor
 
 Desenvolvido e mantido por **[Nader El Khouri](https://github.com/naderelkhouri)**.
+
+
+## Skills importadas de [rtadewald/skills](https://github.com/rtadewald/skills)
+
+| Skill | Descrição |
+| :--- | :--- |
+| [`grill-me`](./grill-me/SKILL.md) | Entrevista dura para afiar plano ou design. |
+| [`to-tickets`](./to-tickets/SKILL.md) | Plano/spec/conversa → tickets com dependências. |
+| [`handoff`](./handoff/SKILL.md) | Compacta a conversa para outro agente continuar. |
+| [`improve-codebase-architecture`](./improve-codebase-architecture/SKILL.md) | Escaneia a codebase atrás de oportunidades de deepening e gera relatório HTML. |
+| [`context7-mcp`](./context7-mcp/SKILL.md) | Docs atuais de libs via Context7. |
+| [`plan-screen`](./plan-screen/SKILL.md) | Planeja telas/fluxos com wireframes ASCII tipados e PNGs. |
+| [`img2html`](./img2html/SKILL.md) | Mock (imagem) → página HTML estática em uma passada, com 2 aprovações. |
+| [`video2html`](./video2html/SKILL.md) | Vídeo de UI animada → página HTML viva (GSAP, shaders, Three.js). |
+| [`extract-ds`](./extract-ds/SKILL.md) | Site pronto → Design System funcional com aprovação. |
+| [`mediabunny`](./mediabunny/SKILL.md) | Áudio/vídeo com a lib Mediabunny. |
