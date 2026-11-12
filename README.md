@@ -6,10 +6,39 @@ Coleção canônica de **Skills especializadas, diretrizes de engenharia e runbo
 
 ## 📚 Catálogo de Skills
 
-| Skill | Descrição | Escopo / Aplicação |
-| :--- | :--- | :--- |
-| [`seo-aeo-audit`](./seo-aeo-audit/SKILL.md) | Framework de auditoria técnica de SEO e AEO (*Search Engine + Answer Engine Optimization*) em 5 camadas e 20 configurações essenciais. Avalia rastreabilidade, performance técnica, on-page, E-E-A-T e citabilidade por LLMs (ChatGPT, Gemini, Perplexity), calculando o **SEO Technical Score (0–100)** e plano de remediação. | SEO Técnico, AEO, Auditoria de Websites, AdmX.Tech |
-| [`cloudflare-pages`](./cloudflare-pages/SKILL.md) | Diretrizes técnicas, diagnósticos de tela branca (*SPA fallback* `_redirects`), gestão de cache de borda (*Edge CDN* `_headers`) e paridade de backend Express vs Cloudflare Functions + D1. | Cloudflare Pages, Edge Computing, Deploy Serverless |
+### SEO e Deploy
+
+| Skill | Descrição |
+| :--- | :--- |
+| [`seo-aeo-audit`](./seo-aeo-audit/SKILL.md) | Auditoria técnica de SEO e AEO em 5 camadas, com SEO Technical Score (0–100). |
+| [`cloudflare-pages`](./cloudflare-pages/SKILL.md) | Cloudflare Pages: SPA fallback, cache de borda, Functions + D1. |
+
+### Planejamento e entrega
+
+| Skill | Descrição |
+| :--- | :--- |
+| [`grill-me`](./grill-me/SKILL.md) | Entrevista dura para afiar plano ou design. |
+| [`to-tickets`](./to-tickets/SKILL.md) | Plano/spec/conversa → tickets com dependências. |
+| [`handoff`](./handoff/SKILL.md) | Compacta a conversa para outro agente continuar. |
+| [`improve-codebase-architecture`](./improve-codebase-architecture/SKILL.md) | Acha oportunidades de deepening na codebase e gera relatório HTML. |
+
+### UI, telas e design system
+
+| Skill | Descrição |
+| :--- | :--- |
+| [`plan-screen`](./plan-screen/SKILL.md) | Wireframes ASCII tipados de telas/fluxos, depois PNGs. |
+| [`img2html`](./img2html/SKILL.md) | Mock (imagem) → HTML estático em uma passada, com 2 aprovações. |
+| [`video2html`](./video2html/SKILL.md) | Vídeo de UI animada → página HTML viva (GSAP, shaders, Three.js). |
+| [`extract-ds`](./extract-ds/SKILL.md) | Site pronto → Design System funcional com aprovação. |
+
+### Mídia e docs
+
+| Skill | Descrição |
+| :--- | :--- |
+| [`mediabunny`](./mediabunny/SKILL.md) | Áudio/vídeo com a lib Mediabunny. |
+| [`context7-mcp`](./context7-mcp/SKILL.md) | Docs atuais de libs via Context7. |
+
+> Planejamento, UI e mídia foram importadas de [rtadewald/skills](https://github.com/rtadewald/skills).
 
 ---
 
@@ -60,19 +89,3 @@ skills/
 ## 👤 Autor
 
 Desenvolvido e mantido por **[Nader El Khouri](https://github.com/naderelkhouri)**.
-
-
-## Skills importadas de [rtadewald/skills](https://github.com/rtadewald/skills)
-
-| Skill | Descrição |
-| :--- | :--- |
-| [`grill-me`](./grill-me/SKILL.md) | Entrevista dura para afiar plano ou design. |
-| [`to-tickets`](./to-tickets/SKILL.md) | Plano/spec/conversa → tickets com dependências. |
-| [`handoff`](./handoff/SKILL.md) | Compacta a conversa para outro agente continuar. |
-| [`improve-codebase-architecture`](./improve-codebase-architecture/SKILL.md) | Escaneia a codebase atrás de oportunidades de deepening e gera relatório HTML. |
-| [`context7-mcp`](./context7-mcp/SKILL.md) | Docs atuais de libs via Context7. |
-| [`plan-screen`](./plan-screen/SKILL.md) | Planeja telas/fluxos com wireframes ASCII tipados e PNGs. |
-| [`img2html`](./img2html/SKILL.md) | Mock (imagem) → página HTML estática em uma passada, com 2 aprovações. |
-| [`video2html`](./video2html/SKILL.md) | Vídeo de UI animada → página HTML viva (GSAP, shaders, Three.js). |
-| [`extract-ds`](./extract-ds/SKILL.md) | Site pronto → Design System funcional com aprovação. |
-| [`mediabunny`](./mediabunny/SKILL.md) | Áudio/vídeo com a lib Mediabunny. |
