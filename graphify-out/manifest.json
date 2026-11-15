@@ -1,7 +1,7 @@
 {
   "README.md": {
-    "mtime": 1788354310.382094,
-    "ast_hash": "9fa9183ec66d28e09960e3518bcf690f",
+    "mtime": 1794712211.0058568,
+    "ast_hash": "e60df682a246fe68242a77983348ae00",
     "semantic_hash": ""
   },
   "cloudflare-pages/SKILL.md": {
@@ -12,6 +12,251 @@
   "seo-aeo-audit/SKILL.md": {
     "mtime": 1788353464.0577898,
     "ast_hash": "83e22479d92eee3ad41c4512d3837eca",
+    "semantic_hash": ""
+  },
+  "img2html/scripts/align.py": {
+    "mtime": 1794712211.019241,
+    "ast_hash": "63a10a52dfde2246d0789f3461d7f10c",
+    "semantic_hash": ""
+  },
+  "img2html/scripts/fonts.py": {
+    "mtime": 1794712211.0193577,
+    "ast_hash": "915da22e89a11054cda70b30e60322ff",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/apply_template.py": {
+    "mtime": 1794712211.0203753,
+    "ast_hash": "17f0ed12d34ccca5aac3306d50503b80",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/compare.py": {
+    "mtime": 1794712211.020671,
+    "ast_hash": "1a9b619d99bc56c5e6676e014f1d05bc",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/describe_motion.py": {
+    "mtime": 1794712211.020671,
+    "ast_hash": "e8504db5de9f73d07922e76dfbe8c5ed",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/extract_emissive.py": {
+    "mtime": 1794712211.020671,
+    "ast_hash": "b744f15b093f1b58e7e2fc182bd60f90",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/image_to_3d.py": {
+    "mtime": 1794712211.020671,
+    "ast_hash": "f28e656ceb6bfeff7df15962e5356fdb",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/isolate_subject.py": {
+    "mtime": 1794712211.020671,
+    "ast_hash": "d5f913d7af5676c9818f7a72965bc62a",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/motion_map.py": {
+    "mtime": 1794712211.020671,
+    "ast_hash": "ad94785359e8cfef915a84693d303c7d",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/render_views.py": {
+    "mtime": 1794712211.0208566,
+    "ast_hash": "a4cfcb20f08ccfdafae92df06894f5d9",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/rig_bust.py": {
+    "mtime": 1794712211.0208566,
+    "ast_hash": "2b2c60e37d7f9136bac7b0dbfe0d07d0",
+    "semantic_hash": ""
+  },
+  "video2html/scripts/snap.py": {
+    "mtime": 1794712211.0208566,
+    "ast_hash": "f1dc4f377c57c8792e05a5f0bf1bf6d4",
+    "semantic_hash": ""
+  },
+  "browser-extension-builder/SKILL.md": {
+    "mtime": 1794712211.0228565,
+    "ast_hash": "c90614b90e4e7323cd01e6ed068f480e",
+    "semantic_hash": ""
+  },
+  "context7-mcp/SKILL.md": {
+    "mtime": 1794712211.0058568,
+    "ast_hash": "a735611f354f3193911a18be4da691f4",
+    "semantic_hash": ""
+  },
+  "context7-mcp/agents/openai.yaml": {
+    "mtime": 1794712211.006727,
+    "ast_hash": "98b5b35b8f58e8f8b870b18fdfa8039b",
+    "semantic_hash": ""
+  },
+  "extract-ds/README.md": {
+    "mtime": 1794712211.006727,
+    "ast_hash": "04fd85829317f45d6581232465d4cc5d",
+    "semantic_hash": ""
+  },
+  "extract-ds/SKILL.md": {
+    "mtime": 1794712211.0068512,
+    "ast_hash": "2b7ac020cd75eeb5fc22f4d1b7826126",
+    "semantic_hash": ""
+  },
+  "extract-ds/agents/openai.yaml": {
+    "mtime": 1794712211.0068512,
+    "ast_hash": "ecd690faab20e66368f469dc63e83d5a",
+    "semantic_hash": ""
+  },
+  "extract-ds/references/component-formats.md": {
+    "mtime": 1794712211.0178566,
+    "ast_hash": "74d102cecdc938028a9dfc7e34758351",
+    "semantic_hash": ""
+  },
+  "extract-ds/references/file-conversion.md": {
+    "mtime": 1794712211.0186865,
+    "ast_hash": "2a03018a2079bf6d5be96829c8762644",
+    "semantic_hash": ""
+  },
+  "grill-me/SKILL.md": {
+    "mtime": 1794712211.0186865,
+    "ast_hash": "f9c91afd7f3210c8668fcd5969cb7c57",
+    "semantic_hash": ""
+  },
+  "grill-me/agents/openai.yaml": {
+    "mtime": 1794712211.018813,
+    "ast_hash": "6861b2d32053ec50ac9b3c69074473b0",
+    "semantic_hash": ""
+  },
+  "handoff/SKILL.md": {
+    "mtime": 1794712211.018813,
+    "ast_hash": "0c85c9d91321c7499c5c935e0d0c7a81",
+    "semantic_hash": ""
+  },
+  "handoff/agents/openai.yaml": {
+    "mtime": 1794712211.0189383,
+    "ast_hash": "cafb2cc9e056a0f9aa3e79ff1ad3863f",
+    "semantic_hash": ""
+  },
+  "img2html/SKILL.md": {
+    "mtime": 1794712211.0189383,
+    "ast_hash": "b514d291abd5304d36115ea28378ff07",
+    "semantic_hash": ""
+  },
+  "img2html/agents/openai.yaml": {
+    "mtime": 1794712211.0191076,
+    "ast_hash": "d6b4d9588d243f750253169ddb15ac3c",
+    "semantic_hash": ""
+  },
+  "img2html/references/build.md": {
+    "mtime": 1794712211.0191076,
+    "ast_hash": "91879ebd63a2876ca9459e6a36d45548",
+    "semantic_hash": ""
+  },
+  "img2html/references/plan.md": {
+    "mtime": 1794712211.019241,
+    "ast_hash": "53dbafe91069665f1e333f6c3808c35f",
+    "semantic_hash": ""
+  },
+  "improve-codebase-architecture/HTML-REPORT.md": {
+    "mtime": 1794712211.0193577,
+    "ast_hash": "2ee5137278168f65fa79115c8c3faa43",
+    "semantic_hash": ""
+  },
+  "improve-codebase-architecture/SKILL.md": {
+    "mtime": 1794712211.019498,
+    "ast_hash": "4ee25283040b435a621319ef41f0c3f5",
+    "semantic_hash": ""
+  },
+  "improve-codebase-architecture/agents/openai.yaml": {
+    "mtime": 1794712211.019498,
+    "ast_hash": "e73ee28ebe885ee90bec6f34554efdd1",
+    "semantic_hash": ""
+  },
+  "mediabunny/SKILL.md": {
+    "mtime": 1794712211.019498,
+    "ast_hash": "88f96607003ab5e4626d7d45f3190a1f",
+    "semantic_hash": ""
+  },
+  "mediabunny/agents/openai.yaml": {
+    "mtime": 1794712211.0196848,
+    "ast_hash": "6f7013189332d9694018da3218f51170",
+    "semantic_hash": ""
+  },
+  "mediabunny/get-audio-duration.md": {
+    "mtime": 1794712211.0196848,
+    "ast_hash": "d820f23099c4573516868c9f9828bcb1",
+    "semantic_hash": ""
+  },
+  "mediabunny/get-video-dimensions.md": {
+    "mtime": 1794712211.0196848,
+    "ast_hash": "3151bc43355e29e1b9df40c278b53436",
+    "semantic_hash": ""
+  },
+  "mediabunny/get-video-duration.md": {
+    "mtime": 1794712211.0196848,
+    "ast_hash": "cac0bcc75701b4e9a9ddf05febf7ca1a",
+    "semantic_hash": ""
+  },
+  "plan-screen/SKILL.md": {
+    "mtime": 1794712211.0196848,
+    "ast_hash": "d33748dc66b891dbc84a29b0b0fbc91f",
+    "semantic_hash": ""
+  },
+  "plan-screen/agents/openai.yaml": {
+    "mtime": 1794712211.0199451,
+    "ast_hash": "9aaa0246354f4cd76c2b3036195b828d",
+    "semantic_hash": ""
+  },
+  "to-tickets/SKILL.md": {
+    "mtime": 1794712211.0199451,
+    "ast_hash": "17129aa76a67e96f192aeb8446cb71dd",
+    "semantic_hash": ""
+  },
+  "to-tickets/agents/openai.yaml": {
+    "mtime": 1794712211.0200918,
+    "ast_hash": "84eb1cbe2a155586a420dee65c8abe24",
+    "semantic_hash": ""
+  },
+  "video2html/SKILL.md": {
+    "mtime": 1794712211.0200918,
+    "ast_hash": "0dfd87762544925a0a4dccd4f60f56dc",
+    "semantic_hash": ""
+  },
+  "video2html/agents/openai.yaml": {
+    "mtime": 1794712211.0202549,
+    "ast_hash": "6e119327f2574a9c6e2f9d413cf65a97",
+    "semantic_hash": ""
+  },
+  "video2html/references/categories.md": {
+    "mtime": 1794712211.0202549,
+    "ast_hash": "9cbd8b7aaeab7f82cf79d4063fe9961b",
+    "semantic_hash": ""
+  },
+  "video2html/references/character-3d.md": {
+    "mtime": 1794712211.0203753,
+    "ast_hash": "e490099954dc264def4facfbc4ba86ed",
+    "semantic_hash": ""
+  },
+  "video2html/references/phase2.md": {
+    "mtime": 1794712211.0203753,
+    "ast_hash": "cf4e1a1051be7399821b264b9b31323e",
+    "semantic_hash": ""
+  },
+  "video2html/references/pitfalls.md": {
+    "mtime": 1794712211.0203753,
+    "ast_hash": "c6e55327cb35534e59f659c3374490c0",
+    "semantic_hash": ""
+  },
+  "video2html/references/plan.md": {
+    "mtime": 1794712211.0203753,
+    "ast_hash": "c0cef361b8de89bff9d6c24e54f52ddc",
+    "semantic_hash": ""
+  },
+  "video2html/templates/character.html": {
+    "mtime": 1794712211.0208566,
+    "ast_hash": "1ea083fc99ce07c3acceebfe2228f3c8",
+    "semantic_hash": ""
+  },
+  "extract-ds/assets/extract-ds-demo.webp": {
+    "mtime": 1794712211.0178566,
+    "ast_hash": "039bc440923b028e544f98ecd71586dd",
     "semantic_hash": ""
   }
 }
